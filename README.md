@@ -1,3 +1,4 @@
 ### Hi there ##
 this is sam
-lets build tha project
+lets build this project
+this is octavious
